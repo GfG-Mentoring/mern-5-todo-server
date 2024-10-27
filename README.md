@@ -26,5 +26,3 @@ will create a package.json only
 ## create express app:
 
 just follow the code from here (start from app.js)
-
-"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNoaWtoYXJAZ21haWwuY29tIiwiZnVsbE5hbWUiOiJzaGlraGFyIiwiaWF0IjoxNzMwMDIxMzIzLCJleHAiOjE3MzAxMDc3MjN9.Kk3Cq2or98U1oJ2ipT2xCTzHcSRVMjC8paQkKUU5HGw"
